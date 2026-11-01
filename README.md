@@ -10,6 +10,7 @@ An end-to-end audit automation for the Treasury department of an Indian bank. It
 
 | What | Link |
 |---|---|
+| Demo video (Zoom recording, 15 min) | [TreasuryAudit360_Capstone_Demo_CA_Ravishankar_Aiyar_B105.mp4](TreasuryAudit360_Capstone_Demo_CA_Ravishankar_Aiyar_B105.mp4) |
 | Hosted app (Lovable) | https://treasuryaudit360.lovable.app |
 | This repository's app on GitHub Pages | `https://<your-github-username>.github.io/TreasuryAudit360/` (after step 2 below) |
 | n8n back end (published webhooks) | `https://nonchallant.app.n8n.cloud/webhook/treasury-audit/...` |
